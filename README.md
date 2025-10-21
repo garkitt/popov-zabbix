@@ -24,7 +24,7 @@
 
 Но данные мы с этого Агентв видим.
 
-(https://github.com/garkitt/popov-zabbix/blob/1b1ee3338b930a19d349e0f75fc366dba1de521b/img/2-1.png)
+![Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/1b1ee3338b930a19d349e0f75fc366dba1de521b/img/2-1.png)
 
 
 
