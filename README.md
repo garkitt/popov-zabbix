@@ -7,15 +7,15 @@
 ![Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/4e6b0e682d6d5171d6f7169e3a650cf68add7a87/img/admika.png)`
 
 Использовал следующие команлды для установки Zabbix
-# wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
-# dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
-# apt update
-# apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts
-# sudo -u postgres createuser --pwprompt zabbix
-# sudo -u postgres createdb -O zabbix zabbix
-# zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
-# systemctl restart zabbix-server apache2
-# systemctl enable zabbix-server apache2
+1) wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+2) dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
+3) apt update
+4) apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts
+5) sudo -u postgres createuser --pwprompt zabbix
+6) sudo -u postgres createdb -O zabbix zabbix
+7) zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+8) systemctl restart zabbix-server apache2
+9) systemctl enable zabbix-server apache2
 ---
 
 ### Задание 2
