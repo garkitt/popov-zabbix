@@ -25,13 +25,20 @@
 
 
 Лог Агентов
+
+
 ![Логагента1](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_1.png)
+
+
+
 ![Логагентв2](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_2.png)
 
 
 Скриншот раздела Monitoring > Latest data
 
 ![Работа1](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data.png)
+
+
 ![Работа2](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data_1.png)
 
 
