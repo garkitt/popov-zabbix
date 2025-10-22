@@ -21,18 +21,18 @@
 ### Задание 2
 
 На скрине видим подклюбченные агенты
-![Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/111b9580080c033eff2293cebaa69e505c57524f/img/new2-1.png)
+![Агенты](https://github.com/garkitt/popov-zabbix/blob/111b9580080c033eff2293cebaa69e505c57524f/img/new2-1.png)
 
 
 Лог Агентов
-[Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_1.png)
-[Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_2.png)
+[Логагента1](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_1.png)
+[Логагентв2](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_2.png)
 
 
 Скриншот раздела Monitoring > Latest data
 
-[Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data.png)
-[Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data_1.png)
+[Работа1](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data.png)
+[Работа2](https://github.com/garkitt/popov-zabbix/blob/c815935e213edf2f266d53358589dfaf02da6783/img/Latest_data_1.png)
 
 
 Использовал следующие команды
