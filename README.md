@@ -21,7 +21,7 @@
 ### Задание 2
 
 На скрине видим подклюбченные агенты
-![Агенты](https://github.com/garkitt/popov-zabbix/blob/111b9580080c033eff2293cebaa69e505c57524f/img/new2-1.png)
+![Агенты](https://github.com/garkitt/popov-zabbix/blob/b1f0c439ec821207a070bf84242300d2f27ef6c4/img/new2-1.png)
 
 
 Лог Агентов
