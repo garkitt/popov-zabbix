@@ -27,6 +27,13 @@
 
 ![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-1.png)
 
-Применил свой шаблон для первого хоста "popoviv-2"
+Применил свой шаблон для второго хоста "popoviv-2"
 
 ![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-2.png)
+
+
+### Задание 4
+
+Создал свой дашборд
+
+![dash](https://github.com/garkitt/popov-zabbix/blob/78eef31d8e2b6ac83cadfa65ece2c4e42f9a653f/img/Dash.png)
