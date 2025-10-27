@@ -6,7 +6,7 @@
 
 Скрин шаблона "Test_popov" в нем создал два Itema: Загрузка CPU (CPU_load) и загрузка памяти (RAM_load) в процентах.
 
-![Скрин шаблона](https://github.com/garkitt/popov-zabbix/blob/9892ecfb89d9000b0f921af0d34b4eab1e5cb28c/img/Temp_1.png)`
+![Скрин шаблона](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_temp_1.png)`
 
 
 ---
@@ -23,13 +23,18 @@
 
 ### Задание 3
 
-Применил свой шаблон для первого хоста "popoviv-1"
+Общая страница с применеными шаблонами "Linux by Zabbix agent" и собственным шаблоном "Zadanie 1"
 
-![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-1.png)
+![popoviv-1](hhttps://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3.png)
 
-Применил свой шаблон для второго хоста "popoviv-2"
+Скрин на котором видно, что применено два шаблона к хосту "popoviv-1"
 
-![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-2.png)
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3_1.png)
+
+
+Скрин на котором видно, что применено два шаблона к хосту "popoviv-1"
+
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3_2.png)
 
 
 ### Задание 4
