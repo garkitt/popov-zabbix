@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-Скрин шаблона "Test_popov" в нем создал два Itema: Загрузка CPU (CPU_load) и загрузка памяти (RAM_load) в процентах.
+Скрин шаблона "Zadanie 1" в нем создал два Itema: Загрузка CPU (CPU_load) и загрузка памяти (RAM_load) в процентах.
 
 ![Скрин шаблона](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_temp_1.png)`
 
