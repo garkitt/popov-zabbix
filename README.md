@@ -25,7 +25,7 @@
 
 Общая страница с применеными шаблонами "Linux by Zabbix agent" и собственным шаблоном "Zadanie 1"
 
-![popoviv-1](hhttps://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3.png)
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3.png)
 
 Скрин на котором видно, что применено два шаблона к хосту "popoviv-1"
 
