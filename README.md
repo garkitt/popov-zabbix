@@ -1,21 +1,14 @@
-# Домашнее задание к занятию "`Система мониторинга Zabbix`" - `Попов Игорь`
+# Домашнее задание к занятию "`Система мониторинга Zabbix. Часть 2`" - `Попов Игорь`
 
 ---
 
 ### Задание 1
 
-![Скрин Админки](https://github.com/garkitt/popov-zabbix/blob/4e6b0e682d6d5171d6f7169e3a650cf68add7a87/img/admika.png)`
+Скриншот шаблона "Test_popov" в нем сощздал два Itema: Загрузке CPU (CPU_load) и загрузка памяти (RAM_load)
 
-Использовал следующие команлды для установки Zabbix
-1) wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
-2) dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
-3) apt update
-4) apt install zabbix-server-pgsql zabbix-frontend-php php8.3-pgsql zabbix-apache-conf zabbix-sql-scripts
-5) sudo -u postgres createuser --pwprompt zabbix
-6) sudo -u postgres createdb -O zabbix zabbix
-7) zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
-8) systemctl restart zabbix-server apache2
-9) systemctl enable zabbix-server apache2
+![Скрин шаблона](https://github.com/garkitt/popov-zabbix/blob/9892ecfb89d9000b0f921af0d34b4eab1e5cb28c/img/Temp_1.png)`
+
+
 ---
 
 ### Задание 2
