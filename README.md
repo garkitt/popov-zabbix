@@ -21,7 +21,12 @@
 ![host1](https://github.com/garkitt/popov-zabbix/blob/35d450ee6a33ece956d2366b4bba1cab7fae4ddc/img/Temp2-2.png)
 
 
-Лог Агентов
+### Задание 3
 
+Применил свой шаблон для первого хоста "popoviv-1"
 
-![Логагента1](https://github.com/garkitt/popov-zabbix/blob/ad26399b2bba918a4cda23ce92c2607a4ece31e7/img/log_1.png)
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-1.png)
+
+Применил свой шаблон для первого хоста "popoviv-2"
+
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/a098528bceef0e35eeee9786ce823228779d5595/img/3-2.png)
