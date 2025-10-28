@@ -37,6 +37,11 @@
 ![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_all3_2.png)
 
 
+Отвязал шаблон "Linux by Zabbix agent" и на скрине привязка только моего шаблона и 2 итемами.
+
+![popoviv-1](https://github.com/garkitt/popov-zabbix/blob/e8b843924538846e4bc37055766e0197891bd256/img/3_3.png)
+
+
 ### Задание 4
 
 Создал свой дашборд
