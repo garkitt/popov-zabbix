@@ -4,7 +4,7 @@
 
 ### Задание 1
 
-Конфигурационный файл haproxy лежит в корне репозитория.
+Конфигурационный файл haproxy .
 
 ![Скрин шаблона](https://github.com/garkitt/popov/blob/93cee324c1ed7ac24d0bdf8cd696fcc38faadbdc/img/Zadanie_1.png)`
 
