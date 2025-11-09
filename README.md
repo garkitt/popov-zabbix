@@ -20,5 +20,6 @@
 ![host1](https://github.com/garkitt/popov/blob/b93fe44820cd0ea63d83fc3886517c1af316559e/img/Zadaie2_c%20domen.png)
 
 
-На скрине ниже видим перенаправление запросов на разные серверы при обращении к HAProxy без использованием домена 
+На скрине ниже видим перенаправление запросов на разные серверы при обращении к HAProxy без использования домена 
+
 ![host1](https://github.com/garkitt/popov/blob/b93fe44820cd0ea63d83fc3886517c1af316559e/img/Zadaie2_bez%20domen.png)
