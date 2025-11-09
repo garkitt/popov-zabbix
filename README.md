@@ -4,9 +4,9 @@
 
 ### Задание 1
 
-Скрин шаблона "Zadanie 1" в нем создал два Itema: Загрузка CPU (CPU_load) и загрузка памяти (RAM_load) в процентах.
+Конфигурационный файл haproxy лежит в корне репозитория.
 
-![Скрин шаблона](https://github.com/garkitt/popov-zabbix/blob/83308ece3937e25d078dfee8d54310532fda513b/img/new_temp_1.png)`
+![Скрин шаблона](https://github.com/garkitt/popov/blob/93cee324c1ed7ac24d0bdf8cd696fcc38faadbdc/img/Zadanie_1.png)`
 
 
 ---
