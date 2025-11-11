@@ -21,13 +21,11 @@ rsync -av --delete --checksum --exclude='.*' ~ /tmp/backup/
 
 ### Задание 2
 
-Конфигурационный файл haproxy лежит в корне репозитория (haproxy_zadanie2).
+На скрине ниже видим итог выполения скрипта. Команда rsinc выполнена успешно, в логах "~/backup_home.log" прописана соответствыующая команда. 
 
-На скрине ниже видим перенаправление запросов на разные серверы при обращении к HAProxy c использованием домена example.local
-
-![host1](https://github.com/garkitt/popov/blob/b93fe44820cd0ea63d83fc3886517c1af316559e/img/Zadaie2_c%20domen.png)
+![host1](https://github.com/garkitt/popov/blob/78b3936995488a107d682bb13903be3a9e952f5b/img/2_total.png)
 
 
-На скрине ниже видим перенаправление запросов на разные серверы при обращении к HAProxy без использования домена 
+На скрине ниже выполенение команды "crontab -l". В самом конце файла добавил строчку "0 4 * * * /usr/local/bin/backup_home.sh" скрипт будет выполняться каждый день в 4 часа ночи.
 
-![host1](https://github.com/garkitt/popov/blob/b93fe44820cd0ea63d83fc3886517c1af316559e/img/Zadaie2_bez%20domen.png)
+![host2](https://github.com/garkitt/popov/blob/78b3936995488a107d682bb13903be3a9e952f5b/img/2_crontab.png)
